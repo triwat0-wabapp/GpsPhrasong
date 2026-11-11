@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสำรวจภาษีป้าย เทศบาลตำบลพระซอง",
+  "description": "ระบบสำรวจและจัดเก็บข้อมูลภาษีป้าย เทศบาลตำบลพระซอง พร้อมปักหมุด GPS คำนวณภาษีป้ายอัตโนมัติ ออกแบบฟอร์ม ภ.ป.1 / PDF ส่งออก Excel และเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
